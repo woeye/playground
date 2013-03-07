@@ -1,0 +1,9 @@
+{
+  "name": "playground",
+  "description": "Just playing around with various stuff",
+  "version": "0.1.0",
+  "author": "Lars Hoss",
+  "dependencies": {
+    "connect": "~2.7.3"
+  }
+}
